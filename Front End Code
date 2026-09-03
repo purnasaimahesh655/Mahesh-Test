@@ -4,3 +4,5 @@ Print 'C'
 print"D"
 print"E"
 print'F'
+print "D"
+print "E"
