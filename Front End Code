@@ -1,5 +1,8 @@
 Print 'A'
 Print 'B'
 Print 'C'
+print"D"
+print"E"
+print'F'
 print "D"
 print "E"
